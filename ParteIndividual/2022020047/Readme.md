@@ -1,7 +1,7 @@
 # 2022020047
 ---
 ## Ego surfing
-(https://github.com/anibalbg/Practicas-DSI/blob/entrega-003/ParteIndividual/2022020047/EgoSurfing-AnibalBayas.png)
+[](2022020047/EgoSurfing-AnibalBayas.png)
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
