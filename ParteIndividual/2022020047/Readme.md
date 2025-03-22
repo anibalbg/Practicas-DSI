@@ -1,7 +1,7 @@
 # 2022020047
 ---
 ## Ego surfing
-![](haveIBeenPwned.png)
+![](HaveIBeenPwned.png)
 ![](EgoSurfing-AnibalBayas.png)
 
 ## Análisis de plataformas
