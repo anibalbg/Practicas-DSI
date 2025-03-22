@@ -1,5 +1,5 @@
 # Investigaciones individuales
----
+
 Cada miembro del equipo ha realizado un estudio de su huella digital siguiendo los pasos necesarios.
 
 ## Pasos del análisis 
