@@ -23,3 +23,10 @@ imagen
 | Discord    | Sí       | anibalbayas     | Uso ocasional          |
 | Tiktok     | Sí       | anibal.bg     | Demasiado uso diario  |
 
+### Foros
+
+| Plataforma | Usuario                 | Observaciones|
+|------------|----------|-------------------------|
+| Reddit   |  ---    | ---     |
+| Github          | anibalbg            | Cuenta para fines academicos  |
+
