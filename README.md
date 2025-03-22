@@ -1,1 +1,1 @@
-# Practicas-DSI
+# Practicas Dirección de Sistemas de Información
