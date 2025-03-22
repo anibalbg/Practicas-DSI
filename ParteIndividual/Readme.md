@@ -1,14 +1,16 @@
-# Investigaciones individuales
+# 📌 Investigaciones Individuales
 
-Cada miembro del equipo ha realizado un estudio de su huella digital siguiendo los pasos necesarios.
+Cada miembro del equipo ha realizado un estudio de su huella digital siguiendo una serie de pasos para evaluar su presencia en línea y la seguridad de sus datos.
 
-## Pasos del análisis 
+## 🔍 Pasos del Análisis
 
-### EgoSurfing
-Para realizar el EgoSurfing hemos utilizado buscadores como Google, Bing o ChatGPT
+| Paso                   | Descripción |
+|------------------------|-------------|
+| **EgoSurfing**        | Se ha realizado una búsqueda en motores como Google, Bing y ChatGPT para conocer la información pública sobre cada miembro. |
+| **Plataformas**       | Se han analizado redes sociales como Facebook, Instagram y X, además de plataformas emergentes como Threads y BeReal. |
+| **Verificación de Seguridad** | Se han comprobado los correos electrónicos en la plataforma *Have I Been Pwned* para detectar posibles filtraciones de datos. |
 
-### Plataformas
-En el análisis de plataformas hemos buscado en redes sociales típicas como Facebook, Instagramo X y también en redes sociales emergentes como Threads o BeReal.
+## 🛡️ Conclusiones
 
-### Verficicación de Seguridad
-Hemos comprobado nuestros correos electrónicos en Have I Benn Pwned.
+El análisis ha permitido conocer la información expuesta en la web y reforzar medidas de seguridad digital cuando ha sido necesario.
+
