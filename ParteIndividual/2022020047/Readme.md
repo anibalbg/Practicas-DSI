@@ -1,25 +1,38 @@
 # 2022020047
 ---
-## ego surfing
-foto de egosurfing
+## Ego surfing
+![](HaveIBeenPwned.png)
+![](EgoSurfing-AnibalBayas.png)
+
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
 
 | Plataforma | Presencia | Usuario                 | Observaciones                                      |
 |------------|----------|-------------------------|----------------------------------------------------|
-| Facebook   | Sí       | Mario Del Rio           | Cuenta actualmente activa                         |
-| Instagram  | Sí       | _maariio_04             | Cuenta actualmente activa                         |
-| LinkedIn   | Sí       | Mario del Rio Merino    | Perfil actualmente activo pero desactualizado     |
-| X          | Sí       | Mariodelrio7            | Cuenta solo para ver noticias                     |
+| Facebook   | No       | ---          | ---                         |
+| Instagram  | Sí       | Anibal.bg             | Cuenta actualmente activa                         |
+| LinkedIn   | Sí       | Anibal Bayas Galindo    | Cuenta actualmente activa     |
+| X          | Sí       | anibalbayass            | Cuenta solo para ver noticias                     |
 
 ### Plataformas emergentes
 
 | Plataforma | Presencia | Usuario            | Observaciones          |
 |------------|----------|--------------------|------------------------|
-| BeReal     | Sí       | maritolacasito     | Mucho uso diario      |
+| BeReal     | Sí       | Anibal.bg     | Cuenta sin uso      |
 | Threads    | No       | ---                | ---                    |
 | Mastodon   | No       | ---                | ---                    |
-| Discord    | Sí       | Mariete27#2417     | Uso ocasional          |
-| Tiktok     | Sí       | maritolacasito     | Demasiado uso diario  |
+| Discord    | Sí       | anibalbayas     | Uso ocasional          |
+| Tiktok     | Sí       | anibal.bg     | Demasiado uso diario  |
+
+### Foros
+
+| Plataforma | Usuario                 | Observaciones|
+|------------|----------|-------------------------|
+| Reddit   |  ---    | ---     |
+| Github          | anibalbg            | Cuenta para fines academicos  |
+
+### Interconexion entre plataformas
+
+Ninguna de mis cuentas creadas en redes sociales estan interconectadas, la única interconexión es la similitud de nombres de usuario en todas las redes sociales.
 
