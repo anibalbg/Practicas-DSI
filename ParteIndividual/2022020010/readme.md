@@ -1,7 +1,9 @@
 # 2022020047
 ---
 ## ego surfing
-foto de egosurfing
+![Have i been pwned](Haveibeenpwned.jpg)
+![Egosurfing](fotoexcel.jpg)
+
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
