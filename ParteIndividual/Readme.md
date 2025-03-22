@@ -3,7 +3,7 @@
 Cada miembro del equipo ha realizado un estudio de su huella digital siguiendo los pasos necesarios.
 
 ## Pasos del análisis 
----
+
 ### EgoSurfing
 Para realizar el EgoSurfing hemos utilizado buscadores como Google, Bing o ChatGPT
 
