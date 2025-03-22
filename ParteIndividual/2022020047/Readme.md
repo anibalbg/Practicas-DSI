@@ -1,7 +1,7 @@
 # 2022020047
 ---
 ## Ego surfing
-![](/EgoSurfing-AnibalBayas.png)
+[](ParteIndividual/2022020047/EgoSurfing-AnibalBayas.png)
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
