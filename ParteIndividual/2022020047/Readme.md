@@ -1,25 +1,25 @@
 # 2022020047
 ---
 ## Ego surfing
-[imagen](/EgoSurfing-AnibalBayas.png)
+imagen
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
 
 | Plataforma | Presencia | Usuario                 | Observaciones                                      |
 |------------|----------|-------------------------|----------------------------------------------------|
-| Facebook   | NO       | ----           | Cuenta actualmente activa                         |
-| Instagram  | Sí       | -             | Cuenta actualmente activa                         |
-| LinkedIn   | Sí       | -    | Perfil actualmente activo pero desactualizado     |
-| X          | Sí       | -            | Cuenta solo para ver noticias                     |
+| Facebook   | No       | ---          | ---                         |
+| Instagram  | Sí       | Anibal.bg             | Cuenta actualmente activa                         |
+| LinkedIn   | Sí       | Anibal Bayas Galindo    | Cuenta actualmente activa     |
+| X          | Sí       | anibalbayass            | Cuenta solo para ver noticias                     |
 
 ### Plataformas emergentes
 
 | Plataforma | Presencia | Usuario            | Observaciones          |
 |------------|----------|--------------------|------------------------|
-| BeReal     | Sí       | -     | Mucho uso diario      |
+| BeReal     | Sí       | Anibal.bg     | Cuenta sin uso      |
 | Threads    | No       | ---                | ---                    |
 | Mastodon   | No       | ---                | ---                    |
-| Discord    | Sí       | -     | Uso ocasional          |
-| Tiktok     | Sí       | -     | Demasiado uso diario  |
+| Discord    | Sí       | anibalbayas     | Uso ocasional          |
+| Tiktok     | Sí       | anibal.bg     | Demasiado uso diario  |
 
