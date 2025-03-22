@@ -32,3 +32,7 @@
 | Reddit   |  ---    | ---     |
 | Github          | anibalbg            | Cuenta para fines academicos  |
 
+### Interconexion entre plataformas
+
+Ninguna de mis cuentas creadas en redes sociales estan interconectadas, la única interconexión es la similitud de nombres de usuario en todas las redes sociales.
+
