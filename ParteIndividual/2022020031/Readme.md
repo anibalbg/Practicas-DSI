@@ -20,7 +20,7 @@
 
 | Plataforma | Presencia | Usuario            | Observaciones          |
 |------------|----------|--------------------|------------------------|
-| BeReal     | Sí       | Anibal.bg     |      Cuenta actualmente activa |
+| BeReal     | Sí       | javier38     |      Cuenta actualmente activa |
 | Threads    | No       | ---                | ---                    |
 | Mastodon   | No       | ---                | ---                    |
 | Discord    | No       | ---     | ---          |
