@@ -12,4 +12,4 @@
 | Instagram  | Sí       | luna.ayala9             | Cuenta actualmente activa                         |
 | LinkedIn   | No       | ---          | ---                         |
 | X          | Sí       | lunac091            | Cuenta actualmente activp con poco uso                     |
-
+|------------------------------------------------------------------------------------------------------|
