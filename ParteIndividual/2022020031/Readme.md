@@ -2,7 +2,7 @@
 # 2022020047
 ---
 ## Ego surfing
-![](foto_correo.png)
+![](fotoCorreo.png)
 ![](tabla.png)
 
 ## Análisis de plataformas
