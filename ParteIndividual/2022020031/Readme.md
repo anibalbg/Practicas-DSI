@@ -11,27 +11,27 @@
 
 | Plataforma | Presencia | Usuario                 | Observaciones                                      |
 |------------|----------|-------------------------|----------------------------------------------------|
-| Facebook   | No       | ---          | ---                         |
-| Instagram  | Sí       | Anibal.bg             | Cuenta actualmente activa                         |
-| LinkedIn   | Sí       | Anibal Bayas Galindo    | Cuenta actualmente activa     |
-| X          | Sí       | anibalbayass            | Cuenta solo para ver noticias                     |
+| Facebook   | No       |         --- | ---                         |
+| Instagram  | Sí       | javiiier_trueba38       | Cuenta actualmente activa                         |
+| LinkedIn   | Sí       | Javier Trueba Bonet     | Cuenta actualmente activa     |
+| X          | Sí       | jatr38                  | Cuenta solo para ver noticias                     |
 
 ### Plataformas emergentes
 
 | Plataforma | Presencia | Usuario            | Observaciones          |
 |------------|----------|--------------------|------------------------|
-| BeReal     | Sí       | Anibal.bg     | Cuenta sin uso      |
+| BeReal     | Sí       | Anibal.bg     |      Cuenta actualmente activa |
 | Threads    | No       | ---                | ---                    |
 | Mastodon   | No       | ---                | ---                    |
-| Discord    | Sí       | anibalbayas     | Uso ocasional          |
-| Tiktok     | Sí       | anibal.bg     | Demasiado uso diario  |
+| Discord    | No       | ---     | ---          |
+| Tiktok     | Sí       | elnortebajoelagua     | Demasiado uso diario  |
 
 ### Foros
 
 | Plataforma | Usuario                 | Observaciones|
 |------------|----------|-------------------------|
 | Reddit   |  ---    | ---     |
-| Github          | anibalbg            | Cuenta para fines academicos  |
+| Github          | javier28238            | Cuenta para fines academicos  |
 
 ### Interconexion entre plataformas
 
