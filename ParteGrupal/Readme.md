@@ -48,8 +48,8 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 |Plataforma|M1|M2|M3|M4|M5|M6|M7|M8|M9|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|
-|Foros/Blogs|
+|Redes Sociales|1
+|Foros/Blogs|2
 |Noticias|
 |Documentos|
 |Imágenes|
