@@ -1,5 +1,5 @@
 ![Captura de pantalla 2025-03-25 a las 14 32 47](https://github.com/user-attachments/assets/01a5b82c-f1f6-416b-b78e-57751dd736da)
-
+https://docs.google.com/spreadsheets/d/1EV39ZDEDKLRWk12xgoS4UhHHLqm-R1WuXokdATKRA8E/edit?usp=sharing
 
 ### Análisis de Plataforma 
 
