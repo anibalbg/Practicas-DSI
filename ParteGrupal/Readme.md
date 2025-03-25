@@ -76,7 +76,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Tipo de control|M1|M2|...|Mn|% Grupo|Riesgo promedio|
+|Tipo de control|M1|M2|M3|M4|Mn|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|
 |Total| | | | |
 |Parcial| | | | |
