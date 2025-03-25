@@ -32,7 +32,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Métrica|Miembro 1|Miembro 2|...|Miembro n|Patrón grupal<br>(Media y desviación)|
+|Métrica|Miembro 1|Miembro 2|Miembro 3|Miembro 4| Miembro 5|Patrón grupal<br>(Media y desviación)|
 |-|-|-|-|-|-|
 |Índice de exposición global|
 |Nº total de hallazgos|
