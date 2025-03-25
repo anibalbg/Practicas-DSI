@@ -1,7 +1,7 @@
 # 2022030185
 
 ## EgoSurfing
-![](ego surfing Maria Ximena.jpg)
+![](egosurfingMariaXimena.jpg)
 ![](have_i_been_pwned.png)
 
 ### Análisis de Plataforma 
@@ -9,19 +9,19 @@
 | Plataforma | Presencia | Usuario                 | Observaciones                                      |
 |------------|----------|-------------------------|----------------------------------------------------|
 | Facebook   | No       | ---          | ---                         |
-| Instagram  | Sí       |             | Cuenta actualmente activa                         |
+| Instagram  | Sí       | mariaximena_14            | Cuenta actualmente activa                         |
 | LinkedIn   | No       | ---          | ---                         |
-| X          | Sí       |           | Cuenta con poco uso                     |
+| X          | ---      |  --         | Cuenta con poco uso                     |
 
 ### Plataformas Emergentes 
 
 | Plataforma | Presencia | Usuario            | Observaciones          |
 |------------|----------|--------------------|------------------------|
-| BeReal     | Sí       |    | Cuenta sin uso      |
+| BeReal     | No       |  ---  |  ---     |
 | Threads    | No       | ---                | ---                    |
 | Mastodon   | No       | ---                | ---                    |
 | Discord    | No       | ---               | ---            |
-| Tiktok     | Sí       |      |Uso diario  |
+| Tiktok     | Sí       | mariaximena.14    |Uso diario  |
 
 ### Foros 
 | Plataforma | Usuario                 | Observaciones|
