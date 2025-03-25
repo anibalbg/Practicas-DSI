@@ -88,7 +88,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Exposición|M1|M2|...|Mn|% grupal|
+|Exposición|M1|M2|M3|M4|M5|M6|M7|M8|M9|% grupal|
 |-|-|-|-|-|-|
 |Total brechas|
 |Datos personales|
