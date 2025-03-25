@@ -1,8 +1,8 @@
 # 2022030026
 ---
 ## Ego surfing
-
-
+![](HaveIBeenOwned.png)
+![](AnaGarciaEgoSurfing.png)
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
