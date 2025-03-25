@@ -1,6 +1,8 @@
 # 2022030185
 
 ## EgoSurfing
+![](ego surfing Maria Ximena.jpg)
+![](have_i_been_pwned.png)
 
 ### Análisis de Plataforma 
 
