@@ -8,10 +8,10 @@
 
 | Plataforma | Presencia | Usuario                 | Observaciones                                      |
 |------------|----------|-------------------------|----------------------------------------------------|
-| Facebook   | No       | ---          | ---                         |
-| Instagram  | Sí       | mariaximena_14            | Cuenta actualmente activa                         |
-| LinkedIn   | No       | ---          | ---                         |
-| X          | ---      |  --         | Cuenta con poco uso                     |
+| Facebook   | Sí       | Maria Ximena Salguero   | Cuenta con poco uso                                |
+| Instagram  | Sí       | mariaximena_14          | Cuenta actualmente activa y uso diario             |
+| LinkedIn   | No       | ---                     | ---                                                |
+| X          | Sí       | MariaXi66074988         | Cuenta con poco uso                                |
 
 ### Plataformas Emergentes 
 
