@@ -2,7 +2,7 @@
 ---
 ## Ego surfing
 ![](HaveIBeenOwned.png)
-![](AnaGarciaEgoSurfing.png)
+![](AnaGarcíaEgoSurfing.png)
 ## Análisis de plataformas
 
 ### Redes sociales tradicionales
