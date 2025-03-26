@@ -102,11 +102,18 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Categoría de impacto|M1|M2|...|Mn|Impacto grupal|
-|-|-|-|-|-|-|
-|Personal| | | | | |
-|Profesional| | | | | |
-|Académico| | | | | |
-|Social| | | | | |
+#### Análisis de impacto
+
+<div align=center>
+
+|Categoría de impacto|Maria Ximena Salguero|Luna Ayala|Ana García|José Salceda|Adrián García|Daniel Lavín|Anibal Bayas|Alfonso García-Barredo|Javier Trueba|Impacto grupal|
+|-|-|-|-|-|-|-|-|-|-|-|
+|Personal| | | | | | | | | | |
+|Profesional| | | | | | | | | | |
+|Académico| | | | | | | | | | |
+|Social| | | | | | | | | | |
+
+</div>
+
 
 </div>
