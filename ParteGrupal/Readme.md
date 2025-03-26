@@ -76,7 +76,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Tipo de control|M1|M2|M3|M4|M5|M6|M7|M8|M9|% Grupo|Riesgo promedio|
+|Tipo de control|María Ximena Salguero|Luna Ayala|Ana García|José Salceda|Adrián García|Daniel Lavín|Anibal Bayas|Alfonso García-Barredo|Javier Trueba|% Grupo|Riesgo promedio|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Total| | | | | | | | | | 
 |Parcial| | | | | | | | | |
