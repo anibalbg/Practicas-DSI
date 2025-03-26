@@ -48,12 +48,12 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 |Plataforma|Maria Ximena Salguero|Luna Ayala|Ana García|José Salceda|Adrián García|Daniel Lavín|Anibal Bayas|Alfonso García-Barredo|Javier Trueba|Total grupo|
 |-|-|-|-|-|-|-|-|-|-|-|
-|Redes Sociales|-|-|5|-|-|-|-|-|-|-|
-|Foros/Blogs|-|-|0|-|-|-|-|-|-|-|
-|Noticias|-|-|0|-|-|-|-|-|-|-|
-|Documentos|-|-|0|-|-|-|-|-|-|-|
-|Imágenes|-|-|0|-|-|-|-|-|-|-|
-|Otros|-|-|2|-|-|-|-|-|-|-|
+|Redes Sociales|4|3|5|6|3|3|3|0|3|30|
+|Foros/Blogs|0|0|0|3|0|1|0|0|0|4|
+|Noticias|0|0|0|0|0|0|0|4|0|4|
+|Documentos|0|0|0|0|0|1|0|0|0|1|
+|Imágenes|0|0|0|0|0|0|0|0|0|0|
+|Otros|2|3|2|0|2|0|3|0|3|15|
 
 </div>
 
