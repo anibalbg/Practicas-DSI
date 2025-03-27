@@ -61,14 +61,15 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Vulnerabilidad|María Ximena Salguero|Luna Ayala|Ana García|José Salceda|Javier Trueba|Adrián García|Daniel Lavín|Alfonso García-Barredo|Anibal Bayas|**Mn|% Grupo|Riesgo medio|
-|-|-|-|-|-|-|-|
-|Datos personales expuestos|6|6|7|9|6|5|5|4|6|
-|Información profesional|0|0|0|1|2|0|1|0|1|
-|Fotos personales|3|0|5|0|2|2|1|0|2|
-|Menciones en medios|0|1|0|0|1|0|2|0|0|
-|Documentos académicos|0|0|0|0|1|0|1|0|0|
-|Perfiles abandonados|0|0|0|0|0|0|0|0|0|
+| Vulnerabilidad            | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Javier Trueba | Adrián García | Daniel Lavín | Alfonso García-Barredo | Anibal Bayas | **Mn** | % Grupo | Riesgo medio |
+|---------------------------|----------------------|------------|------------|--------------|--------------|--------------|--------------|------------------------|-------------|------|--------|--------------|
+| Datos personales expuestos | 6                    | 6          | 7          | 9            | 6            | 5            | 5            | 4                      | 6           |      |        |              |
+| Información profesional    | 0                    | 0          | 0          | 1            | 2            | 0            | 1            | 0                      | 1           |      |        |              |
+| Fotos personales           | 3                    | 0          | 5          | 0            | 2            | 2            | 1            | 0                      | 2           |      |        |              |
+| Menciones en medios        | 0                    | 1          | 0          | 0            | 1            | 0            | 2            | 0                      | 0           |      |        |              |
+| Documentos académicos      | 0                    | 0          | 0          | 0            | 1            | 0            | 1            | 0                      | 0           |      |        |              |
+| Perfiles abandonados       | 0                    | 0          | 0          | 0            | 0            | 0            | 0            | 0                      | 0           |      |        |              |
+
 
 </div>
 
