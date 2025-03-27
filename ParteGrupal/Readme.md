@@ -104,6 +104,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 #### Análisis de impacto
 
 <div align=center>
+  
 | Categoría de impacto | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Adrián García | Daniel Lavín | Anibal Bayas | Alfonso García-Barredo | Javier Trueba | Impacto grupal |
 |----------------------|----------------------|------------|------------|--------------|--------------|--------------|-------------|------------------------|--------------|----------------|
 | Personal             |                      |            |            |              |              |              |             |                        |              |                |
@@ -111,7 +112,7 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 | Académico            |                      |            |            |              |              |              |             |                        |              |                |
 | Social               |                      |            |            |              |              |              |             |                        |              |                |
 
-
+</div>
 ---
 
 ### Recomendaciones para reducir la huella digital
