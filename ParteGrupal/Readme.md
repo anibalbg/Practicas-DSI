@@ -32,13 +32,14 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Métrica|Miembro 1|Miembro 2|Miembro N|Patrón grupal<br>(Media y desviación)|
-|-|-|-|-|-|
-|Índice de exposición global|
-|Nº total de hallazgos|
-|% hallazgos en control total|
-|% hallazgos en control parcial|
-|% hallazgos sin control|
+| Métrica                          | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | Patrón grupal (Media y desviación) |
+|----------------------------------|--------|--------|------|------|------|------|------|------|------|--------------------------------|
+| Índice de exposición global      |        |        |      |      |      |      |      |      |      |                                |
+| Nº total de hallazgos            |        |        |      |      |      |      |      |      |      |                                |
+| % hallazgos en control total     |        |        |      |      |      |      |      |      |      |                                |
+| % hallazgos en control parcial   |        |        |      |      |      |      |      |      |      |                                |
+| % hallazgos sin control          |        |        |      |      |      |      |      |      |      |                                |
+
 
 </div>
 
