@@ -34,11 +34,12 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 | Métrica                          | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | Patrón grupal (Media y desviación) |
 |----------------------------------|--------|--------|------|------|------|------|------|------|------|--------------------------------|
-| Índice de exposición global      |        |        |      |      |      |      |      |      |      |                                |
-| Nº total de hallazgos            |        |        |      |      |      |      |      |      |      |                                |
-| % hallazgos en control total     |        |        |      |      |      |      |      |      |      |                                |
-| % hallazgos en control parcial   |        |        |      |      |      |      |      |      |      |                                |
-| % hallazgos sin control          |        |        |      |      |      |      |      |      |      |                                |
+| Índice de exposición global      |   🔴   |   🟡   |  🔴  |  🔴  |  🟡  |  🟡  |  🔴  |  🟡  |  🔴  |   🔴 (media) / 🟡 (desv.)     |
+| Nº total de hallazgos            |   12   |   9    |  14  |  13  |  10  |  8   |  12  |  8   |  11  |  10.8 (±2.1)                  |
+| % hallazgos en control total     |  16.7  |   0    | 14.3 | 69.2 |   0  | 37.5 |   0  |   0  |   0  |  15.3% (±19.6)                |
+| % hallazgos en control parcial   |  8.3   |  33.3  | 28.6 |   0  | 10.0 |   0  |  8.3 |   0  |  9.1 |  10.9% (±10.8)                |
+| % hallazgos sin control          |  25.0  |  33.3  |  7.1 |   0  | 40.0 | 25.0 | 41.7 | 50.0 | 45.5 | 29.7% (±15.3)                 |
+
 
 
 </div>
