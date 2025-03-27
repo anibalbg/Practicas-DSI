@@ -135,6 +135,8 @@ Basado en los hallazgos grupales, se proponen las siguientes acciones:
 - **Solicitar desindexación** de contenidos en buscadores si es necesario.
 
 Estas medidas ayudan a minimizar riesgos y fortalecer la seguridad digital.
+[Ver informe detallado]([https://docs.google.com/document/d/tu-documento-id/edit](https://docs.google.com/document/d/1LCfvXXZLCyYQgueVea3vVtMLjvc5ItpAJ2b4AUr-6tU/edit?usp=sharing))
+
 </div>
 
 
