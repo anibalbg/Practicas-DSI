@@ -82,9 +82,9 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 | Tipo de control | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | % Grupo | Riesgo promedio |
 |-----------------|--------|--------|------|------|------|------|------|------|------|--------|----------------|
-| Total           | 2      | 0      | 2    | 9    | 0    | 3    | 0    | 0    | 0    |        |                |
-| Parcial         | 1      | 3      | 4    | 0    | 1    | 0    | 1    | 0    | 1    |        |                |
-| Nulo            | 3      | 3      | 1    | 0    | 4    | 2    | 5    | 4    | 5    |        |                |
+| Total           | 2      | 0      | 2    | 9    | 0    | 3    | 0    | 0    | 0    | 22.2%  | 🟡 Moderado    |
+| Parcial         | 1      | 3      | 4    | 0    | 1    | 0    | 1    | 0    | 1    | 33.3%  | 🟡 Moderado    |
+| Nulo            | 3      | 3      | 1    | 0    | 4    | 2    | 5    | 4    | 5    | 44.4%  | 🔴 Alto        |
 
 
 
