@@ -46,14 +46,15 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-| Plataforma      | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Adrián García | Daniel Lavín | Anibal Bayas | Alfonso García-Barredo | Javier Trueba | Total grupo |
-|-----------------|----------------------|------------|------------|--------------|--------------|--------------|-------------|------------------------|--------------|--------------|
-| Redes Sociales  | 4                    | 3          | 5          | 6            | 3            | 3            | 3           | 0                      | 3            | 30           |
-| Foros/Blogs     | 0                    | 0          | 0          | 3            | 0            | 1            | 0           | 0                      | 0            | 4            |
-| Noticias        | 0                    | 0          | 0          | 0            | 0            | 0            | 0           | 4                      | 0            | 4            |
-| Documentos      | 0                    | 0          | 0          | 0            | 0            | 1            | 0           | 0                      | 0            | 1            |
-| Imágenes        | 0                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 0            |
-| Otros           | 2                    | 3          | 2          | 0            | 2            | 0            | 3           | 0                      | 3            | 15           |
+| Plataforma     | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | Total grupo |
+|----------------|--------|--------|------|------|------|------|------|------|------|--------------|
+| Redes Sociales | 4      | 3      | 5    | 6    | 3    | 3    | 3    | 0    | 3    | 30           |
+| Foros/Blogs    | 0      | 0      | 0    | 3    | 0    | 1    | 0    | 0    | 0    | 4            |
+| Noticias       | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 4    | 0    | 4            |
+| Documentos     | 0      | 0      | 0    | 0    | 0    | 1    | 0    | 0    | 0    | 1            |
+| Imágenes       | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0            |
+| Otros          | 2      | 3      | 2    | 0    | 2    | 0    | 3    | 0    | 3    | 15           |
+
 
 </div>
 
@@ -61,14 +62,14 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-| Vulnerabilidad             | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Javier Trueba | Adrián García | Daniel Lavín | Alfonso García-Barredo | Anibal Bayas | **Mn** | % Grupo | Riesgo medio |
-|----------------------------|----------------------|------------|------------|--------------|--------------|--------------|--------------|------------------------|-------------|------|--------|--------------|
-| Datos personales expuestos | 6                    | 6          | 7          | 9            | 6            | 5            | 5            | 4                      | 6           |      |        |              |
-| Información profesional    | 0                    | 0          | 0          | 1            | 2            | 0            | 1            | 0                      | 1           |      |        |              |
-| Fotos personales           | 3                    | 0          | 5          | 0            | 2            | 2            | 1            | 0                      | 2           |      |        |              |
-| Menciones en medios        | 0                    | 1          | 0          | 0            | 1            | 0            | 2            | 0                      | 0           |      |        |              |
-| Documentos académicos      | 0                    | 0          | 0          | 0            | 1            | 0            | 1            | 0                      | 0           |      |        |              |
-| Perfiles abandonados       | 0                    | 0          | 0          | 0            | 0            | 0            | 0            | 0                      | 0           |      |        |              |
+| Vulnerabilidad             | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | **Mn** | % Grupo | Riesgo medio |
+|----------------------------|--------|--------|------|------|------|------|------|------|------|------|--------|--------------|
+| Datos personales expuestos | 6      | 6      | 7    | 9    | 6    | 5    | 5    | 4    | 6    |      |        |              |
+| Información profesional    | 0      | 0      | 0    | 1    | 2    | 0    | 1    | 0    | 1    |      |        |              |
+| Fotos personales           | 3      | 0      | 5    | 0    | 2    | 2    | 1    | 0    | 2    |      |        |              |
+| Menciones en medios        | 0      | 1      | 0    | 0    | 1    | 0    | 2    | 0    | 0    |      |        |              |
+| Documentos académicos      | 0      | 0      | 0    | 0    | 1    | 0    | 1    | 0    | 0    |      |        |              |
+| Perfiles abandonados       | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    |      |        |              |
 
 
 </div>
@@ -77,11 +78,12 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-| Tipo de control | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Adrián García | Daniel Lavín | Anibal Bayas | Alfonso García-Barredo | Javier Trueba | % Grupo | Riesgo promedio |
-|----------------|----------------------|------------|------------|--------------|--------------|--------------|-------------|------------------------|--------------|---------|----------------|
-| Total          | 2                    | 0          | 2          | 9            | 0            | 3            | 0           | 0                      | 0            |         |                |
-| Parcial        | 1                    | 3          | 4          | 0            | 1            | 0            | 1           | 0                      | 1            |         |                |
-| Nulo           | 3                    | 3          | 1          | 0            | 4            | 2            | 5           | 4                      | 5            |         |                |
+| Tipo de control | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | % Grupo | Riesgo promedio |
+|-----------------|--------|--------|------|------|------|------|------|------|------|--------|----------------|
+| Total           | 2      | 0      | 2    | 9    | 0    | 3    | 0    | 0    | 0    |        |                |
+| Parcial         | 1      | 3      | 4    | 0    | 1    | 0    | 1    | 0    | 1    |        |                |
+| Nulo            | 3      | 3      | 1    | 0    | 4    | 2    | 5    | 4    | 5    |        |                |
+
 
 
 </div>
@@ -90,13 +92,14 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-| Exposición         | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Adrián García | Daniel Lavín | Anibal Bayas | Alfonso García-Barredo | Javier Trueba | % Grupal |
-|--------------------|----------------------|------------|------------|--------------|--------------|--------------|-------------|------------------------|--------------|---------|
-| Total brechas      | 1                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 100%    |
-| Datos personales   | 1                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 100%    |
-| Contraseñas        | 0                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 0%      |
-| Emails             | 0                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 0%      |
-| Servicios críticos | 0                    | 0          | 0          | 0            | 0            | 0            | 0           | 0                      | 0            | 0%      |
+| Exposición         | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | % Grupal |
+|--------------------|--------|--------|------|------|------|------|------|------|------|---------|
+| Total brechas      | 1      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 100%    |
+| Datos personales   | 1      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 100%    |
+| Contraseñas        | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0%      |
+| Emails             | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0%      |
+| Servicios críticos | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0%      |
+
 
 
 </div>
@@ -105,12 +108,13 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
   
-| Categoría de impacto | María Ximena Salguero | Luna Ayala | Ana García | José Salceda | Adrián García | Daniel Lavín | Anibal Bayas | Alfonso García-Barredo | Javier Trueba | Impacto grupal |
-|----------------------|----------------------|------------|------------|--------------|--------------|--------------|-------------|------------------------|--------------|----------------|
-| Personal             |                      |            |            |              |              |              |             |                        |              |                |
-| Profesional          |                      |            |            |              |              |              |             |                        |              |                |
-| Académico            |                      |            |            |              |              |              |             |                        |              |                |
-| Social               |                      |            |            |              |              |              |             |                        |              |                |
+| Categoría de impacto | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | Impacto grupal |
+|----------------------|--------|--------|------|------|------|------|------|------|------|----------------|
+| Personal             |        |        |      |      |      |      |      |      |      |                |
+| Profesional          |        |        |      |      |      |      |      |      |      |                |
+| Académico            |        |        |      |      |      |      |      |      |      |                |
+| Social               |        |        |      |      |      |      |      |      |      |                |
+
 
 </div>
 ---
