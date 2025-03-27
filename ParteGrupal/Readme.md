@@ -113,6 +113,21 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 |Académico| | | | | | | | | | |
 |Social| | | | | | | | | | |
 
+---
+
+### Recomendaciones para reducir la huella digital
+
+Basado en los hallazgos grupales, se proponen las siguientes acciones:
+
+- **Revisar la privacidad** en redes y ajustar las condiciones de seguridad y privacidad de los perfiles.
+- **Eliminar perfiles antiguos** o sin uso para evitar exposición innecesaria.
+- **Limitar datos personales** publicados (teléfono, dirección, etc.).
+- **Usar contraseñas seguras** y activar autenticación en dos pasos.
+- **Supervisar filtraciones** con herramientas como *Have I Been Pwned*.
+- **Evitar compartir imágenes/documentos personales** 
+- **Solicitar desindexación** de contenidos en buscadores si es necesario.
+
+Estas medidas ayudan a minimizar riesgos y fortalecer la seguridad digital.
 </div>
 
 
