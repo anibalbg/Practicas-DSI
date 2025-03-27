@@ -88,13 +88,13 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-|Exposición|M1|M2|...|Mn|% grupal|
-|-|-|-|-|-|-|
-|Total brechas|
-|Datos personales|
-|Contraseñas|
-|Emails|
-|Servicios críticos|
+|Exposición|Maria Ximena Salguero|Luna Ayala|Ana García|José Salceda|Adrián García|Daniel Lavín|Anibal Bayas|Alfonso García-Barredo|Javier Trueba|% grupal|
+|-|-|-|-|-|-|-|-|-|-|-|
+|Total brechas|4|3|5|6|3|3|3|0|3|30|
+|Datos personales|0|0|0|3|0|1|0|0|0|4|
+|Contraseñas|0|0|0|0|0|0|0|4|0|4|
+|Emails|0|0|0|0|0|1|0|0|0|1|
+|Servicios críticos|0|0|0|0|0|0|0|0|0|0|
 
 </div>
 
