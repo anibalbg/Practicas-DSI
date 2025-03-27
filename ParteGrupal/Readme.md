@@ -64,14 +64,15 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
 
 <div align=center>
 
-| Vulnerabilidad             | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | **Mn** | % Grupo | Riesgo medio |
-|----------------------------|--------|--------|------|------|------|------|------|------|------|------|--------|--------------|
-| Datos personales expuestos | 6      | 6      | 7    | 9    | 6    | 5    | 5    | 4    | 6    |      |        |              |
-| Información profesional    | 0      | 0      | 0    | 1    | 2    | 0    | 1    | 0    | 1    |      |        |              |
-| Fotos personales           | 3      | 0      | 5    | 0    | 2    | 2    | 1    | 0    | 2    |      |        |              |
-| Menciones en medios        | 0      | 1      | 0    | 0    | 1    | 0    | 2    | 0    | 0    |      |        |              |
-| Documentos académicos      | 0      | 0      | 0    | 0    | 1    | 0    | 1    | 0    | 0    |      |        |              |
-| Perfiles abandonados       | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    |      |        |              |
+| Vulnerabilidad             | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | % Grupo | Riesgo medio |
+|----------------------------|--------|--------|------|------|------|------|------|------|------|--------|--------------|
+| Datos personales expuestos | 6      | 6      | 7    | 9    | 6    | 5    | 5    | 4    | 6    | 100%   | 🔴 Alto     |
+| Información profesional    | 0      | 0      | 0    | 1    | 2    | 0    | 1    | 0    | 1    | 44.4%  | 🟡 Moderado |
+| Fotos personales           | 3      | 0      | 5    | 0    | 2    | 2    | 1    | 0    | 2    | 55.6%  | 🟡 Moderado |
+| Menciones en medios        | 0      | 1      | 0    | 0    | 1    | 0    | 2    | 0    | 0    | 33.3%  | 🟡 Moderado |
+| Documentos académicos      | 0      | 0      | 0    | 0    | 1    | 0    | 1    | 0    | 0    | 22.2%  | 🟢 Bajo     |
+| Perfiles abandonados       | 0      | 0      | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0%     | 🟢 Bajo     |
+
 
 
 </div>
