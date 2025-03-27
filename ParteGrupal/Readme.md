@@ -111,10 +111,10 @@ Para transformar los hallazgos individuales en conocimiento colectivo, permitien
   
 | Categoría de impacto | ...185 | ...190 | ...26 | ...18 | ...43 | ...10 | ...47 | ...33 | ...31 | Impacto grupal |
 |----------------------|--------|--------|------|------|------|------|------|------|------|----------------|
-| Personal             |        |        |      |      |      |      |      |      |      |                |
-| Profesional          |        |        |      |      |      |      |      |      |      |                |
-| Académico            |        |        |      |      |      |      |      |      |      |                |
-| Social               |        |        |      |      |      |      |      |      |      |                |
+| Personal             |    0   |   0    |  0   |   2  |   0  |  0   |  0   |   4  |   0  |       6        |
+| Profesional          |    0   |   3    |  0   |   4  |   1  |   1  |  1   |   0  |   1  |       11       |
+| Académico            |    1   |   0    |  0   |   0  |   1  |   2  |  1   |   0  |   0  |       5        |
+| Social               |    5   |   3    |  7   |   3  |   3  |   2  |  3   |   0  |   5  |       31       |
 
 
 </div>
